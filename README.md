@@ -5,4 +5,4 @@ Simulator written in Java using the JavaFX library for GUI, where different spac
 ![Overview](./Overview.png)   
 
 ## OOP Design   
-![OOPDesign]("./OOPDesign.jpg")  
+![OOPDesign](./OOPDesign.jpg)  
